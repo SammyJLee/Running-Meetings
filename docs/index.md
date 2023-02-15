@@ -2,7 +2,7 @@
 
 This section contains information, templates, and samples about team meetings, minutes, and agendas.
 
-Each person should be responsible for parts of team meetings; one person will _create the agenda_ (after consulting everyone), one will _chair the meeting_, and one will _record the minutes and upload_ them. All other people need to contrbute to the meeting to move projects forward.
+Each person should be responsible for parts of team meetings; one person will _create the agenda_ (after consulting everyone), one will _chair the meeting_, and one will _record the minutes and upload_ them. All other people need to contribute to the meeting to move projects forward.
 
 Practicing meetings, setting agendas, and creating minutes gives you a chance to assess the value of meetings for any group project you work on. Meetings are common to all organizations so, as you take part in them, make sure to evaluate the effectiveness of all parts of the meetings. Doing this evaluation may help in future job interviews, for example, where you show a potential employer your approach/process to making group projects effective, efficient, and valuable.
 
@@ -29,7 +29,7 @@ Without meetings, these things can happen:
 - Important information can get lost. The meeting is the place for you to document all work, what needs to be done, by whom, and by when;
 - Social loafers (aka Slackers) can coast through. Meetings allow you to keep the team on task, even when you all have different levels of work through the project.
 
-The next part goes over *agendas* and *meeting minutes*.
+The next part goes over _agendas_ and _meeting minutes_.
 These are vital to productive meetings. Action is the goal of all meetings, moving the team and project forward continually.
 
 > **Takeaway:** Meetings have little value if there is no action.
