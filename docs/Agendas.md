@@ -1,4 +1,4 @@
-# Setting Agendas
+# Setting agendas
 
 The agenda is a short list of topics that you will work on in the meeting.
 
