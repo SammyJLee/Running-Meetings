@@ -16,7 +16,7 @@ The recorder can take notes as they wish and then record the notes using the tem
 
 Anyone reading the minutes (whether they were at the meeting or not) should be able to quickly and easily understand what was done/decided from your minutes.
 
-### Record actions/decisions, not conversations
+## Record actions/decisions, not conversations
 
 Minutes shouldn’t contain who said what.
 
@@ -24,7 +24,7 @@ Instead, you want to simply say what the group did/decided (briefly!) and who wi
 
 :x: Bad example: Susie said a,b,c, Fred said d, e, f, the group decided z.
 
-√ Good example: The group discussed y and decided z. Susie will email a draft to all team members by Feb 28, 2023.
+:white_check_mark: Good example: The group discussed y and decided z. Susie will email a draft to all team members by Feb 28, 2023.
 
 ## Match agenda items/numbering exactly
 
