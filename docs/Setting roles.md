@@ -22,7 +22,7 @@ Minutes shouldn’t contain who said what.
 
 Instead, you want to simply say what the group did/decided (briefly!) and who will do what by when to follow up (if needed):
 
-X Bad example: Susie said a,b,c, Fred said d, e, f, the group decided z.
+:X: Bad example: Susie said a,b,c, Fred said d, e, f, the group decided z.
 
 √ Good example: The group discussed y and decided z. Susie will email a draft to all team members by Feb 28, 2023.
 
