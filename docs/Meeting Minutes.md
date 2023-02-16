@@ -1,4 +1,4 @@
-# Sample Meeting Minutes
+# Sample minutes
 
 This sample shows how the minutes follow the expectations. See how the items are clear for the reader, and see how the focus is on action to move the project forward.
 

@@ -1,4 +1,4 @@
-# Setting team member responsibilities
+# Setting responsibilities
 
 To make sure your meeting works well, all people at the meeting should check the protocols to understand expected behaviour.
 
