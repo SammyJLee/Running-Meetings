@@ -1,8 +1,8 @@
-## Seeting team members responsibilities
+# Seeting team member responsibilities
 
 To make sure your meeting works well, all people at the meeting should check the protocols to understand expected behaviour.
 
-Some key ideas for good meetings include the following: 
+Some key ideas for good meetings include the following:
 
 - Arrive on time.
 - Keep an open mind.
@@ -11,5 +11,5 @@ Some key ideas for good meetings include the following:
 - Avoid dominating. 
 - Avoid conflict situations.
 - Ask questions to help with your understanding.
-- Note down any actions that you have to do from the meeting. 
+- Note down any actions that you have to do from the meeting.
 - Work on your agreed actions.
