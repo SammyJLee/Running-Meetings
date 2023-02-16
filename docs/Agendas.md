@@ -1,4 +1,4 @@
-## Setting Agendas
+# Setting Agendas
 
 The agenda is a short list of topics that you will work on in the meeting.
 
@@ -6,7 +6,7 @@ The main goal of the agenda is to decide what you want to get done at the meetin
 
 In the meeting itself, you can add any new information that comes up that is not on the list, but one goal of the agenda is to make sure all the important information you need to discuss is included beforehand.
 
-### What goes in the agenda?
+## What goes in the agenda?
 
 Agendas can include:
 
@@ -16,7 +16,7 @@ Agendas can include:
 
 ### Who is involved in the agenda?
 
-One person each meeting should be responsible for the agenda, and everyone in the team should and can add to the agenda. 
+One person each meeting should be responsible for the agenda, and everyone in the team should and can add to the agenda.
 
 The person responsible for the agenda should get feedback from all teammates on what they’d like to include in the next meeting.
 This feedback can be sent via email or other communication channel. It can look like this sample below:

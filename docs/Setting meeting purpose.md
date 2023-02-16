@@ -1,4 +1,4 @@
-## What to do in a meeting?
+# What to do in a meeting?
 
 Meetings are an excellent way to check in with all members about the following:
 
@@ -12,7 +12,6 @@ Meetings are an excellent way to check in with all members about the following:
 - What is the next stage of work that we'll discuss in the next meeting?
 
 You'll receive templates of what to include, but the basics of meetings are action: *what have we done, what will we do, who will do it, by when*?
-
 
 Do not leave any issues unresolved; work on them (with instructor help as needed) right away!
 
