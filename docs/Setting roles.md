@@ -4,7 +4,7 @@ The Recorder should take notes during a meeting (see below for template and inst
 
 The Recorder should complete the minutes up to one day after the meeting, and share them with team members and SamL.
 
-Include the word “Minutes” , your team name, and the meeting date in the file name.
+Include the word “Minutes”, your team name, and the meeting date in the file name.
 
 **Example**: Dream Team Minutes Feb 24, 2023
 
